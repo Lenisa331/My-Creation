@@ -1,0 +1,6 @@
+{
+  "name": "Tahfidz Cilik Juz 30 - Kuis Sambung Ayat Proyektor",
+  "description": "Game kuis tahfidz interaktif sambung ayat Al-Quran Juz 30 untuk anak-anak dengan tampilan ramah proyektor dan kendali guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
